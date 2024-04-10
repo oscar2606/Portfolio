@@ -5,7 +5,7 @@
 <template>
 <header>
     <div class="container">
-        <h1>Mon Portfolio</h1>
+        <h1>Oscar Perrault</h1>
         <nav>
           <ul>
             <li><a href="#">Accueil</a></li>
@@ -19,14 +19,19 @@
   <section id="hero">
       <div class="container">
         <h2>Bienvenue sur mon portfolio</h2>
-        <p>Découvrez mes projets et mon expérience.</p>
-        <a href="#portfolio" class="btn">Voir mes projets</a>
+        <p>Découvrez mes projets</p>
       </div>
     </section>
 
 </template>
 
 <style scoped>
+
+
+header{
+  display:flex;
+  justify-content: space-between;
+}
 .btn{
     color: #E65D5D
 }

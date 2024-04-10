@@ -3,7 +3,7 @@ const experiences=[
   {
     poste:'Chargé de communication (Alternance)',
     entreprise:'La Maison Des Travaux',
-    date:'Du 18/09/23 au 31/08/24'
+    date:'Du 01/12/23 au 31/08/24'
   },
   {
     poste:'Webdesigner (Stage)',
@@ -44,6 +44,7 @@ const experiences=[
 <style scoped>
 .container{
   background-color:#1E1E1E;
+  padding: 20px;
 }
 .experience-item{
   margin-top: 40px; 
