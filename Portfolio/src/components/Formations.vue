@@ -12,7 +12,7 @@ const formations=[
     },
     {
         titre:'BTS Commerce International à référentiel européen',
-        école:'Campus Sacré-Coeur La Salle (Angers)',
+        école:'Campus Sacré-Coeur  La Salle (Angers)',
         date:'2019/2021'
     },
     {

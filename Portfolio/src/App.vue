@@ -6,6 +6,7 @@ import  Experiences from '@/components/Experiences.vue'
 import Formations from '@/components/Formations.vue'
 import Competences from '@/components/Competences.vue'
 import Projets from '@/components/Projets.vue'
+import Contact from '@/components/Contact.vue'
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import Projets from '@/components/Projets.vue'
   <Formations/>
   <Competences/>
   <Projets/>
+  <Contact/>
 </template>
 
 <style scoped>
